@@ -1,6 +1,7 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
-import App from './App'
-import './index.css'
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+import "./index.css";
 
-ReactDOM.render(<App />, document.getElementById('root'))
+// this entire React application is for testing our endpoints
+ReactDOM.render(<App />, document.getElementById("root"));
